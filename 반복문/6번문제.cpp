@@ -2,14 +2,17 @@
 using namespace std;
 
 int main() {
-    int t;
-    cin>>t;
+    ios::sync_with_stdio(false); cin.tie(NULL);
+    long int t;
     int a,b;
-   
+
+    cin>>t;
+
     for(int i=0;i<t;++i){
         cin>>a>>b;
         cout<<a+b<<"\n";
     }
+
 
     return 0;
 }
