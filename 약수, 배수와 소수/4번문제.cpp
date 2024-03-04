@@ -34,11 +34,6 @@ int main() {
     }
 
     //test[i]!=1이 아닐때, 해당 수의 약수의 개수가 2보다 크다면 소수x
-
-    
-        
-    
-
     // for(int i=0; i<n; ++i){
     //     // cout<<i<<"'st test= : "<<test[i]<<"\n";
     //     // cout<<i<<"'st sum= : "<<sum[i]<<"\n";
