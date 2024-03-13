@@ -4,11 +4,12 @@
 #include <vector>
 using namespace std;
 
-int main() {   
-    int n;
+int main() {
+    long long n;
     cin>>n;
-    cout<< <<"\n"<<3;
+    cout<<n*(n-1)/2<<"\n"<<2;
 
-    cout<
+
+
     return 0;
 }

@@ -4,12 +4,9 @@
 #include <vector>
 using namespace std;
 
-int main() {
-    int n;
+int main() {   
+    long long n;
     cin>>n;
-
-    // (n-1) * n = n^2 - n
-    cout<<NULL<<'\n'<<2;
-
+    cout<<(n-2)*(n-1)*n/6<<"\n"<<3;
     return 0;
 }
